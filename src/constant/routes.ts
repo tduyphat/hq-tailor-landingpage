@@ -1,26 +1,26 @@
 export const routes = [
   {
-    text: "HOME",
+    text: "home",
     url: "/",
   },
   {
-    text: "OUR STORY",
+    text: "ourStory",
     url: "/about",
   },
   {
-    text: "BESPOKE",
+    text: "bespoke",
     url: "/bespoke",
   },
   {
-    text: "FABRICS",
+    text: "fabrics",
     url: "/fabrics",
   },
   {
-    text: "ALTERATIONS",
+    text: "alterations",
     url: "/alterations",
   },
   {
-    text: "CONTACT",
+    text: "contact",
     url: "/contact",
   },
 ];

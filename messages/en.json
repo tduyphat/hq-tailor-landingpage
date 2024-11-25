@@ -1,0 +1,12 @@
+{
+    "Header": {
+        "home": "HOME",
+        "ourStory": "OUR STORY",
+        "bespoke": "BESPOKE",
+        "fabrics": "FABRICS",
+        "alterations": "ALTERATIONS",
+        "contact": "CONTACT",
+        "english": "English",
+        "vietnamese": "Vietnamese"
+    }
+}

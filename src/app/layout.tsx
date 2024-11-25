@@ -6,7 +6,7 @@ import Footer from "../components/layout/Footer";
 
 export const metadata = {
   title: "HongQuangTailor",
-  description: "An example app with persistent header and footer.",
+  description: "Landing page of HongQuang Tailor Shop",
 };
 
 const inter = Cabin({
@@ -16,10 +16,10 @@ const inter = Cabin({
 
 export default function RootLayout({ children }: any) {
   return (
-    <html lang="en" className={inter.className}>
-      <body className="flex flex-col min-h-screen">
+    <html className={inter.className}>
+      <body>
         <Header />
-        <main className="flex-grow">{children}</main>
+        <main className="min-h-screen">{children}</main>
         <Footer />
       </body>
     </html>

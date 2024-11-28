@@ -9,12 +9,16 @@ import { useMediaQuery } from "usehooks-ts";
 
 import { routes } from "@/constant/routes";
 import LanguageSwitcher from "./LanguageSwitcher";
+import { Drawer, DrawerContent, DrawerTrigger } from "@/components/ui/drawer";
+import { useState } from "react";
 
 const Header = () => {
   const pathname = usePathname();
   const currentLocale = useLocale();
   const t = useTranslations("Header");
   const isLg = useMediaQuery("(min-width: 1024px)");
+
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   const stripLocale = (path: string) => {
     if (path.startsWith(`/${currentLocale}/`)) {
@@ -52,10 +56,41 @@ const Header = () => {
           <LanguageSwitcher />
         </div>
       ) : (
-        <div className="sticky top-0 bg-white p-6 flex items-center justify-center">
+        <div className="sticky top-0 bg-white p-4 flex items-center justify-between">
+          <Drawer open={isDrawerOpen} onOpenChange={setIsDrawerOpen}>
+            <DrawerTrigger asChild>
+              <button>
+                <Image
+                  src="/icons/hamburger.svg"
+                  alt="hamburger"
+                  width={24}
+                  height={24}
+                />
+              </button>
+            </DrawerTrigger>
+            <DrawerContent>
+              <div className="p-4">
+                {routes.map((r) => (
+                  <div key={r.url} className="py-4">
+                    <Link
+                      href={r.url}
+                      className={twMerge(
+                        normalizedPathname === r.url && "text-[--primary]",
+                        "text-lg"
+                      )}
+                      onClick={() => setIsDrawerOpen(false)}
+                    >
+                      {t(r.text)}
+                    </Link>
+                  </div>
+                ))}
+              </div>
+            </DrawerContent>
+          </Drawer>
           <Link href="/">
-            <Image src="/icons/logo-01.svg" alt="logo" width={64} height={64} />
+            <Image src="/icons/logo-01.svg" alt="logo" width={48} height={48} />
           </Link>
+          <LanguageSwitcher />
         </div>
       )}
     </>

@@ -8,5 +8,23 @@
         "contact": "LIÊN HỆ",
         "english": "Tiếng Anh",
         "vietnamese": "Tiếng Việt"
+    },
+    "Footer": {
+        "footerHeading": "ĐẶT LỊCH HẸN",
+        "footerContent": "Để sắp xếp một buổi tư vấn cá nhân, vui lòng đặt lịch hẹn và sắp xếp thời gian thích hợp để chúng tôi có thể dành cho bạn sự chăm sóc mà bạn xứng đáng.",
+        "contactButton": "ĐỂ LẠI LỜI NHẮN",
+        "businessName": "NHÀ MAY HỒNG QUANG",
+        "phoneNumber1": "028 3843 6012",
+        "phoneNumber2": "0913 192 129",
+        "addressLine1": "45 Trần Nguyên Đán",
+        "addressLine2": "Phường Tân Định, Quận 1, TP.HCM",
+        "oldAddressLabel": "Địa chỉ cũ",
+        "oldAddress": "68/270 bis Trần Quang Khải",
+        "businessHour": "9AM-9PM THỨ HAI-CHỦ NHẬT",
+        "acknowledgement": "Được phát triển bởi"
+    },
+    "Home": {
+        "bannerHeader": "NHÀ MAY HỒNG QUANG",
+        "bannerButton": "HƠN 30 NĂM MAY ĐO TRUYỀN THỐNG"
     }
 }

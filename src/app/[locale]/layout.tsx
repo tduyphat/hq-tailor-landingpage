@@ -4,9 +4,9 @@ import { getMessages, setRequestLocale } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
 
 import "./globals.css";
-import Header from "../../components/layout/Header";
 import Footer from "../../components/layout/Footer";
 import { routing } from "@/i18n/routing";
+import Header from "@/components/layout/Header/index";
 
 export const metadata = {
   title: "HongQuang Tailor",

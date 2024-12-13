@@ -8,5 +8,23 @@
         "contact": "CONTACT",
         "english": "English",
         "vietnamese": "Vietnamese"
+    },
+    "Footer": {
+        "footerHeading": "SCHEDULE AN APPOINTMENT",
+        "footerContent": "To arrange for a personal consultation, please make an appointment and carve out the appropriate time that will allow us to give you the attention you deserve.",
+        "contactButton": "LEAVE A MESSAGE",
+        "businessName": "HONG QUANG TAILOR",
+        "phoneNumber1": "(+84) 28 3843 6012",
+        "phoneNumber2": "(+84) 09 1319 2129",
+        "addressLine1": "45 Tran Nguyen Dan Street",
+        "addressLine2": "Tan Dinh Ward, District 1, Ho Chi Minh City, Vietnam",
+        "oldAddressLabel": "Old address",
+        "oldAddress": "68/270 bis Tran Quang Khai Street",
+        "businessHour": "9AM-9PM MONDAY-SUNDAY",
+        "acknowledgement": "Developed by"
+    },
+    "Home": {
+        "bannerHeader": "HONG QUANG TAILOR",
+        "bannerButton": "OVER 30 YEARS OF BESPOKE FASHION"
     }
 }

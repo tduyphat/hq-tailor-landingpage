@@ -1,30 +1,64 @@
 {
-    "Header": {
-        "home": "HOME",
-        "ourStory": "OUR STORY",
-        "bespoke": "BESPOKE",
-        "fabrics": "FABRICS",
-        "alterations": "ALTERATIONS",
-        "contact": "CONTACT",
-        "english": "English",
-        "vietnamese": "Vietnamese"
-    },
-    "Footer": {
-        "footerHeading": "SCHEDULE AN APPOINTMENT",
-        "footerContent": "To arrange for a personal consultation, please make an appointment and carve out the appropriate time that will allow us to give you the attention you deserve.",
-        "contactButton": "LEAVE A MESSAGE",
-        "businessName": "HONG QUANG TAILOR",
-        "phoneNumber1": "(+84) 28 3843 6012",
-        "phoneNumber2": "(+84) 09 1319 2129",
-        "addressLine1": "45 Tran Nguyen Dan Street",
-        "addressLine2": "Tan Dinh Ward, District 1, Ho Chi Minh City, Vietnam",
-        "oldAddressLabel": "Old address",
-        "oldAddress": "68/270 bis Tran Quang Khai Street",
-        "businessHour": "9AM-9PM MONDAY-SUNDAY",
-        "acknowledgement": "Developed by"
-    },
-    "Home": {
-        "bannerHeader": "HONG QUANG TAILOR",
-        "bannerButton": "OVER 30 YEARS OF BESPOKE FASHION"
-    }
+  "Metadata": {
+    "title": "Hong Quang Tailor",
+    "description": "Landing page of Hong Quang Tailor"
+  },
+  "Header": {
+    "home": "HOME",
+    "ourStory": "OUR STORY",
+    "bespoke": "BESPOKE",
+    "fabrics": "FABRICS",
+    "alterations": "ALTERATIONS",
+    "contact": "CONTACT",
+    "english": "English",
+    "vietnamese": "Vietnamese"
+  },
+  "Footer": {
+    "footerHeading": "SCHEDULE AN APPOINTMENT",
+    "footerContent": "To arrange for a personal consultation, please make an appointment and carve out the appropriate time that will allow us to give you the attention you deserve.",
+    "contactButton": "LEAVE A MESSAGE",
+    "businessName": "HONG QUANG TAILOR",
+    "phoneNumber1": "(+84) 28 3843 6012",
+    "phoneNumber2": "(+84) 09 1319 2129",
+    "addressLine1": "45 Tran Nguyen Dan Street",
+    "addressLine2": "Tan Dinh Ward, District 1, Ho Chi Minh City, Vietnam",
+    "oldAddressLabel": "Old address",
+    "oldAddress": "68/270 bis Tran Quang Khai Street",
+    "businessHourLine1": "09:00-21:00 MONDAY-FRIDAY",
+    "businessHourLine2": "09:00-17:00 SATURDAY-SUNDAY",
+    "acknowledgement": "Developed by"
+  },
+  "Home": {
+    "bannerHeader": "Hong Quang Tailor",
+    "bannerButton": "OVER 30 YEARS OF BESPOKE FASHION",
+    "section1HeaderLine1": "Discover",
+    "section1HeaderLine2": "OUR STORY",
+    "section1Content": "In 1978, the Kripalani family brought Hong Kong tailoring to Birmingham, Alabama. The combination of hand-selected fabrics and hand-sewn tailoring allowed discerning customers to stand out from the crowd. For those who know what it means to be seen, Kripalani’s has become the go-to source to achieve custom looks that complement their personas.",
+    "section1Button": "ABOUT US",
+    "section2HeaderLine1": "The Very",
+    "section2HeaderLine2": "UNCOMMON THREAD",
+    "section2Content": "Kripalani’s association with the tailors in Hong Kong dates back before World War II; this is a legacy and heritage that dates back to three generations. The Kripalani family sources fabrics from the oldest mills in the world and exclusive sources. They have known the tailors in Hong Kong for more than a half a century. The way their garments drape your frame will make you appreciate the quality and construction that goes into every weave and every stitch.",
+    "section2Button": "FABRICS",
+    "section3HeaderLine1": "The Look",
+    "section3HeaderLine2": "THAT DEFINES",
+    "section3HeaderLine3": "YOUR LIFE",
+    "section3Content": "Whether you are a public figure, a leader in your field, someone who appreciates the finer things in life or a young person starting a career path and are hard to fit or just want a high-quality, affordable suit, Kripalani’s takes the time to understand your personal style. When you first don a custom garment designed specifically for you, a new air of confidence envelopes you. You become more aware of how you present yourself. And, those around you take notice.",
+    "section3Button": "ALTERATIONS"
+  },
+  "About": {
+    "bannerHeader": "OUR STORY",
+    "header1": "WHY IS IT CALLED HONG KONG TAILORS?",
+    "content1-part1": "Beginning with World War II then the war in the Korean Peninsula and finally Vietnam, our servicemen traveled to Hong Kong for R&R when they were deployed in the Pacific theater. While in Hong Kong, they had quality suits made by tailors in that country. When they came back to civilian life, they longed for a fine quality Hong Kong suit. So, the Hong Kong Tailor came to America to meet their needs.",
+    "content1-part2": "If you want a suit made by craftsmen and talent that is steeped in couture history then a suit from us is just that – a piece of timeless elegance.",
+    "content1-part3": "For no fault of their own, young shoppers have not been familiar with this history and have been unable to make a correlation between the name and historical quality of workmanship and art.",
+    "content1-part4": "The Bushes, Pavarotti, David Bowie, Prince Charles, Cold Play, Rod Stewart, Bruno Mars, and Pierce Brosnan are a few names of individuals who have some of their suits made by tailors in Hong Kong.",
+    "header2": "WHAT IS DIFFERENT ABOUT A TAILOR-MADE SUIT?",
+    "content2-part1": "Experience the opportunity for greater expression of your personal style with a tailor-made suit. Lead by Ramesh Kripalani, our custom tailors measure your body over 20 different ways and explore how you “live well” in a custom suit.  We ensure your comfort is a priority if you are sitting in the corporate conference room or cheering on your favorite sports team. Our clothing is hand-sewn and never glued. Pieced together pre-made fabric, altered to your size.",
+    "content2-part2": "You will not go home today in your Kripalani look but when you do leave with your custom fit, you will have experienced the difference.",
+    "header3": "WHAT IS THE DIFFERENCE BETWEEN BESPOKE AND CUSTOM MADE?",
+    "content3-part1": "Made to measure (MTM) typically refers to custom clothing that is cut and sewn using a standard-sized base pattern. All else being equal, a made to measure garment will be more expensive than a ready to wear garment but cheaper than a bespoke one."
+  },
+  "Bespoke": {
+    "bannerHeader": "/bəˈspōk/"
+  }
 }

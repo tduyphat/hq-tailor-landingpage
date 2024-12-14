@@ -49,7 +49,8 @@ const Footer = () => {
                   <TooltipContent>
                     <p>
                       <span className="font-bold">
-                        {t("Footer.oldAddressLabel")}{": "}
+                        {t("Footer.oldAddressLabel")}
+                        {": "}
                       </span>
                       {t("Footer.oldAddress")}
                     </p>
@@ -59,7 +60,10 @@ const Footer = () => {
             </div>
             <p>{t("Footer.addressLine2")}</p>
           </div>
-          <p>{t("Footer.businessHour")}</p>
+          <div>
+            <p>{t("Footer.businessHourLine1")}</p>
+            <p>{t("Footer.businessHourLine2")}</p>
+          </div>
           <div className="flex items-center gap-2">
             <Link href="https://www.facebook.com/nhamayhongquang/">
               <Image

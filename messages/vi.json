@@ -1,30 +1,64 @@
 {
-    "Header": {
-        "home": "TRANG CHỦ",
-        "ourStory": "VỀ CHÚNG TÔI",
-        "bespoke": "MAY ĐO",
-        "fabrics": "VẢI",
-        "alterations": "SỬA ĐỒ",
-        "contact": "LIÊN HỆ",
-        "english": "Tiếng Anh",
-        "vietnamese": "Tiếng Việt"
-    },
-    "Footer": {
-        "footerHeading": "ĐẶT LỊCH HẸN",
-        "footerContent": "Để sắp xếp một buổi tư vấn cá nhân, vui lòng đặt lịch hẹn và sắp xếp thời gian thích hợp để chúng tôi có thể dành cho bạn sự chăm sóc mà bạn xứng đáng.",
-        "contactButton": "ĐỂ LẠI LỜI NHẮN",
-        "businessName": "NHÀ MAY HỒNG QUANG",
-        "phoneNumber1": "028 3843 6012",
-        "phoneNumber2": "0913 192 129",
-        "addressLine1": "45 Trần Nguyên Đán",
-        "addressLine2": "Phường Tân Định, Quận 1, TP.HCM",
-        "oldAddressLabel": "Địa chỉ cũ",
-        "oldAddress": "68/270 bis Trần Quang Khải",
-        "businessHour": "9AM-9PM THỨ HAI-CHỦ NHẬT",
-        "acknowledgement": "Được phát triển bởi"
-    },
-    "Home": {
-        "bannerHeader": "NHÀ MAY HỒNG QUANG",
-        "bannerButton": "HƠN 30 NĂM MAY ĐO TRUYỀN THỐNG"
-    }
+  "Metadata": {
+    "title": "Nhà May Hồng Quang",
+    "description": "Trang đích của Nhà May Hồng Quang"
+  },
+  "Header": {
+    "home": "TRANG CHỦ",
+    "ourStory": "VỀ CHÚNG TÔI",
+    "bespoke": "MAY ĐO",
+    "fabrics": "VẢI",
+    "alterations": "SỬA ĐỒ",
+    "contact": "LIÊN HỆ",
+    "english": "Tiếng Anh",
+    "vietnamese": "Tiếng Việt"
+  },
+  "Footer": {
+    "footerHeading": "ĐẶT LỊCH HẸN",
+    "footerContent": "Để có một buổi tư vấn cá nhân, vui lòng đặt lịch hẹn và chọn thời gian thích hợp để chúng tôi có thể dành cho bạn sự chăm sóc mà bạn xứng đáng.",
+    "contactButton": "LIÊN HỆ NGAY",
+    "businessName": "NHÀ MAY HỒNG QUANG",
+    "phoneNumber1": "028 3843 6012",
+    "phoneNumber2": "0913 192 129",
+    "addressLine1": "45 Trần Nguyên Đán",
+    "addressLine2": "Phường Tân Định, Quận 1, TP.HCM",
+    "oldAddressLabel": "Địa chỉ cũ",
+    "oldAddress": "68/270 bis Trần Quang Khải",
+    "businessHourLine1": "09:00-21:00 THỨ HAI-THỨ SÁU",
+    "businessHourLine2": "09:00-17:00 THỨ BẢY-CHỦ NHẬT",
+    "acknowledgement": "Được phát triển bởi"
+  },
+  "Home": {
+    "bannerHeader": "Nhà May Hồng Quang",
+    "bannerButton": "HƠN 30 NĂM MAY ĐO TRUYỀN THỐNG",
+    "section1HeaderLine1": "Khám Phá",
+    "section1HeaderLine2": "CÂU CHUYỆN CỦA CHÚNG TÔI",
+    "section1Content": "Năm 1978, gia đình Kripalani đã mang nghề may Hồng Kông đến Birmingham, Alabama. Sự kết hợp giữa lựa chọn về vải và kỹ thuật may đo thủ công đã giúp những khách hàng sành điệu nổi bật giữa đám đông. Đối với những ai hiểu được ý nghĩa của việc trở thành trung tâm của ánh nhìn, Kripalani sẽ giúp bạn đạt được vẻ ngoài tùy chỉnh phù hợp với tính cách và nhu cầu.",
+    "section1Button": "VỀ CHÚNG TÔI",
+    "section2HeaderLine1": "Chất lượng",
+    "section2HeaderLine2": "QUA TỪNG ĐƯỜNG CHỈ",
+    "section2Content": "Sự hợp tác của Kripalani với những người thợ may ở Hồng Kông có từ trước Thế chiến II; đây là di sản có từ ba thế hệ. Gia đình Kripalani lấy vải từ những nhà máy lâu đời nhất trên thế giới và những nguồn độc quyền. Họ đã biết những người thợ may ở Hồng Kông trong hơn nửa thế kỷ. Cách trang phục của họ tôn lên vóc dáng sẽ khiến bạn đánh giá cao chất lượng và kết cấu tạo nên từng đường dệt và từng mũi khâu.",
+    "section2Button": "CHẤT LIỆU VẢI",
+    "section3HeaderLine1": "Một diện mạo mới",
+    "section3HeaderLine2": "SẼ THAY ĐỔI",
+    "section3HeaderLine3": "CUỘC SỐNG CỦA BẠN",
+    "section3Content": "Cho dù bạn là người của công chúng, một nhà lãnh đạo trong bất kỳ lĩnh vực, một người trân trọng cái đẹp trong cuộc sống hay một người trẻ đang tìm cách để hoà nhập vào môi trường chuyên nghiệp, hoặc chỉ muốn một bộ vest chất lượng cao, giá cả phải chăng, Kripalani’s sẽ dành thời gian để hiểu rõ nhu cầu và phong cách cá nhân của bạn. Lần đầu tiên khoác lên một bộ trang phục được tuỳ chỉnh và thiết kế riêng cho mình, một luồng không khí tự tin mới sẽ bao trùm lấy bạn. Bạn sẽ trở nên nhận thức rõ hơn về cách thể hiện bản thân và khiến những người xung quanh phải chú ý đến mình.",
+    "section3Button": "CHỈNH SỬA ĐỒ"
+  },
+  "About": {
+    "bannerHeader": "CÂU CHUYỆN CỦA CHÚNG TÔI",
+    "header1": "TẠI SAO LẠI GỌI LÀ THỢ MAY HỒNG KÔNG?",
+    "content1-part1": "Bắt đầu từ Thế chiến thứ II, sau đó là chiến tranh trên bán đảo Triều Tiên và cuối cùng là Việt Nam, các quân nhân của chúng tôi thường đến Hồng Kông để nghỉ ngơi và giải trí (R&R) khi được điều động ở khu vực Thái Bình Dương. Trong thời gian ở Hồng Kông, họ đã đặt may những bộ vest chất lượng từ các thợ may ở quốc gia này. Khi trở về cuộc sống dân sự, họ vẫn luôn khao khát có được một bộ vest chất lượng cao theo phong cách Hồng Kông. Vì vậy, các thợ may Hồng Kông đã đến Mỹ để đáp ứng nhu cầu này.",
+    "content1-part2": "Nếu bạn muốn sở hữu một bộ vest được tạo ra bởi những người thợ lành nghề, tài năng và mang đậm lịch sử thời trang cao cấp, thì một bộ vest từ chúng tôi chính là hiện thân của sự thanh lịch vượt thời gian.",
+    "content1-part3": "Không phải lỗi của họ, nhưng những người tiêu dùng trẻ tuổi hiện nay không quen thuộc với lịch sử này và không thể liên kết giữa cái tên với chất lượng tay nghề và nghệ thuật lịch sử.",
+    "content1-part4": "Gia đình Bush, Pavarotti, David Bowie, Hoàng tử Charles, Coldplay, Rod Stewart, Bruno Mars, và Pierce Brosnan chỉ là một vài cái tên nổi bật đã từng đặt may vest từ các thợ may Hồng Kông.",
+    "header2": "ĐIỂM KHÁC BIỆT CỦA MỘT BỘ VEST ĐẶT MAY LÀ GÌ?",
+    "content2-part1": "Hãy trải nghiệm cơ hội thể hiện phong cách cá nhân của bạn với một bộ vest đặt may. Dưới sự dẫn dắt của Ramesh Kripalani, các thợ may của chúng tôi sẽ đo cơ thể bạn hơn 20 cách khác nhau và tìm hiểu cách bạn “sống đẹp” trong một bộ vest tùy chỉnh. Chúng tôi ưu tiên sự thoải mái của bạn, dù bạn đang ngồi trong phòng họp công ty hay cổ vũ cho đội thể thao yêu thích của mình. Quần áo của chúng tôi được may thủ công, không bao giờ dán keo, và không sử dụng vải cắt sẵn được chỉnh sửa theo kích thước.",
+    "content2-part2": "Có thể bạn sẽ không mang bộ vest Kripalani về nhà ngay trong hôm nay, nhưng khi bạn nhận được bộ trang phục tùy chỉnh, bạn sẽ cảm nhận được sự khác biệt.",
+    "header3": "SỰ KHÁC BIỆT GIỮA 'BESPOKE' VÀ 'CUSTOM-MADE' LÀ GÌ?",
+    "content3-part1": "'Made to measure' (MTM) thường chỉ những bộ trang phục được đặt may và cắt may dựa trên một mẫu có kích thước tiêu chuẩn. Xét về mọi mặt, một bộ trang phục MTM thường đắt hơn quần áo may sẵn nhưng rẻ hơn trang phục bespoke."
+  },
+  "Bespoke": {
+    "bannerHeader": "/bəˈspōk/"
+  }
 }

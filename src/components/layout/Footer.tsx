@@ -24,7 +24,7 @@ const Footer = () => {
             width={32}
             height={32}
           />
-          <p className="max-w-[40rem]">{t("Footer.footerContent")}</p>
+          <p className="w-[20rem] md:w-[40rem]">{t("Footer.footerContent")}</p>
           <Link href="/contact">
             <div className="transition duration-300 ease-in-out rounded-md px-6 py-3 bg-[--primary] hover:bg-[#252525] text-white hover:text-[--primary]">
               {t("Footer.contactButton")}
